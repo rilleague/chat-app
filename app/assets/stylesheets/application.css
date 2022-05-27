@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+ * {
+   box-sizing: border-box;
+ }
+/* ↑全ての要素がborder、paddingによって要素の大きさは変わらなくなる。 */
